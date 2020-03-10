@@ -1,3 +1,9 @@
 There was a man called Richard who is from California and went to school in UW-Madison. 
 After seeing startups like Facebook and Tesla become billion dollar companies, he decided he wanted 
-to become a CS major and start the next big thing. 
+to become a CS major and start the next big thing.
+
+Richard came to Madison hoping to become a billionare but alas all he found was infinite winter. For
+Wisconsinites, once the weather is mid 30's and sunny that is spring for us however Richard could not
+believe his eyes. He saw people walking around with shorts while snow was still on the ground. He 
+thought all of these people were very weird but realized he was the only one not wearing shorts, and
+decided it was time to embrace the cold.
